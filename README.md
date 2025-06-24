@@ -52,8 +52,9 @@ python midi2microbit_smart.py
 4. Open or copy-paste the produced code `microbit_final_code.py` in the micro:bit Python editor (https://python.microbit.org/v/3) or Mu editor.
 
 5. Simulate it online (https://python.microbit.org/v/3) or flash it to your micro:bit and enjoy the music!
+   
+P.S.: Feel free to email me if you have any trouble or you are a beginner and find difficulties with the steps (info@28x.gr)
 
-P.s.: Feel free to email me if you have any trouble or you are a beginner and find difficulties with the steps (info@28x.gr)
 ---
 
 ## 📄 License
