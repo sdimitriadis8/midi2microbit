@@ -49,9 +49,9 @@ music.play(melody)
 python midi2microbit_smart.py
 ```
 
-4. Open `microbit_final_code.py` in the micro:bit Python editor or Mu editor.
+4. Open or copy-paste the produced code `microbit_final_code.py` in the micro:bit Python editor (https://python.microbit.org/v/3) or Mu editor.
 
-5. Flash it to your micro:bit and enjoy the music!
+5. Simulate it online (https://python.microbit.org/v/3) or flash it to your micro:bit and enjoy the music!
 
 ---
 
