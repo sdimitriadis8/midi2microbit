@@ -53,4 +53,4 @@ python midi2microbit_smart.py
 
 ## 📄 License
 
-MIT License © 2025 YourName
+MIT License © 2025 Sokratis Dimitriadis
