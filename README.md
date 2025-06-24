@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.png" alt="midi2microbit banner" />
+</p>
+
 # 🎵 midi2microbit
 
 Convert MIDI melodies into micro:bit `music.play()` note strings!
