@@ -44,7 +44,7 @@ music.play(melody)
 
 2. Put your `.mid` file in the same folder (rename it if needed to match the default name in the script).
 
-3. Run the converter script:
+3. Run the converter script (for example with cmd from the same folder):
 ```bash
 python midi2microbit_smart.py
 ```
@@ -53,6 +53,7 @@ python midi2microbit_smart.py
 
 5. Simulate it online (https://python.microbit.org/v/3) or flash it to your micro:bit and enjoy the music!
 
+P.s.: Feel free to email me if you have any trouble or you are a beginner and find difficulties with the steps (info@28x.gr)
 ---
 
 ## 📄 License
